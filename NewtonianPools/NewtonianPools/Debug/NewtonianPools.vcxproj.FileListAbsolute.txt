@@ -1,0 +1,3 @@
+C:\Users\nikita\source\repos\NewtonianPools\NewtonianPools\Debug\NewtonianPools.vcxproj.AssemblyReference.cache
+C:\Users\nikita\source\repos\NewtonianPools\NewtonianPools\Debug\NewtonianPools.MyForm.resources
+C:\Users\nikita\source\repos\NewtonianPools\NewtonianPools\Debug\NewtonianPools.vcxproj.GenerateResource.cache

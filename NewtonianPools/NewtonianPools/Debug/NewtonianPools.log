@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\nikita\source\repos\NewtonianPools\NewtonianPools\MyForm.h(290): warning C4715: NewtonianPools::MyForm::Сoloring: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  NewtonianPools.vcxproj -> C:\Users\nikita\source\repos\NewtonianPools\Debug\NewtonianPools.exe
